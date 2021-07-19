@@ -1,4 +1,4 @@
-//Ќайти наибольший индекс элемента, меньшего или равного последнему, иначе вывести -1.
+//result = max{ j < i | arr[j] >= arr[SIZE-1]}
 #include<iostream>
 #include<stack>
 
